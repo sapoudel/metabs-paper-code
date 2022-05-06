@@ -1,0 +1,23 @@
+Metabolite,CodY reactions,CcpA Reactions
+Tetrahydrofolate,Methionine synthase,Glycine cleavage complex
+2-Oxoglutarate,Phenylalanine transaminase;Glutamate synthase;Phosphoserine transaminase;Tyrosine transaminase;N-acetyl-LL-diaminopimelate aminotransferase;4-aminobutyrate transaminase;Histidinol-phosphate transaminase reversible;3-Aminopropanoate 2-oxoglutarate aminotransferase ,Glutamate dehydrogenase;2-Oxoglutarate dehydrogenase;Oxalosuccinate carboxy-lyase;Ornithine transaminase;Succinyldiaminopimelate transaminase
+L-Phenylalanine,Phenylalanine transaminase,L phenylalanine transporter
+L-Glutamate,Phenylalanine transaminase;Glutamate synthase;Glutathione hydralase;Phosphoserine transaminase;Anthranilate synthase;Tyrosine transaminase;N-acetyl-LL-diaminopimelate aminotransferase;4-aminobutyrate transaminase;Histidinol-phosphate transaminase reversible;3-Aminopropanoate 2-oxoglutarate aminotransferase ;4-amino-4-deoxychorismate synthase;Imidazole-glycerol-3-phosphate synthase,Glutamate dehydrogenase;Glutamate-Sodium symporter;1-pyrroline-5-carboxylate dehydrogenase;Ornithine transaminase reversible;Succinyldiaminopimelate transaminase
+Acetaldehyde,Ethanol NAD oxidoreductase ,Deoxyribose-phosphate aldolase
+N-Succinyl-2-L-amino-6-oxoheptanedioate,Tetrahydrodipicolinate succinylase,Succinyldiaminopimelate transaminase
+Glycerol,Glycerol Dehydrogenase,Glycerophosphodiester phosphodiesterase ;Glycerol kinase;Glycerol symporter
+L-Threonine,Threonine synthase;L-threonine deaminase,L-threonine dehydrogenase
+L-Histidine,L-Histidinal NAD oxidoreductase ,Histidase
+Succinyl-CoA,Tetrahydrodipicolinate succinylase,Succinyl-CoA synthetase;2-Oxoglutarate dehydrogenase
+"5,10-Methylenetetrahydrofolate","5,10-methylenetetrahydrofolatereductase",Glycine cleavage complex
+L-Alanine,Alanine-Sodium symporter;L-Alanine-proton symporter,L-alanine dehydrogenase
+Glyceraldehyde 3-phosphate,Tryptophan synthase (indoleglycerol phosphate),Deoxyribose-phosphate aldolase reversible;glyceraldehyde-3-phosphate dehydrogenase (NADP)
+Glycine,Glycine-proton symporter,Glycine-cleavage complex;Glycine C-acetyltransferase
+L-Aspartate,Aspartate kinase;L-Aspartate 2-oxoglutarate aminotransferase ,Aspartate-Sodium symporter
+Pyruvate,"Anthranilate synthase;Anthranilate synthase, ammonia;Dihydrodipicolinate synthase;Cystathionine b-lyase",Maltotriose transport via PTS;L-alanine dehydrogenase;Pyruvate kinase;Pyruvate formate lyase;L-ascorbate transport via PEP:Pyr PTS ;N-Acetylneuraminate lyase;Dihydroxyacetone phosphotransferase;Trehalose transport via PEP:Pyr PTS
+Oxaloacetate,L-Aspartate 2-oxoglutarate aminotransferase ,Citrate synthase;Phosphoenolpyruvate carboxykinase
+L-Tryptophan,Tryptophan synthase (indole),L-tryptophan-proton symporter
+L-Arginine,L-Arginine transporter,Arginase
+Acetyl-CoA,Homoserine O-trans-acetylase;Acetyl-CoA L-2 3 4 5-tetrahydrodipicolinate N2-acetyltransferase ,Pyruvate formate lyase;Citrate synthase;Glycine C-acetyltransferase
+L-Tyrosine,Tyrosine transaminase,L-tyrosine-proton symporter
+D-Glyceraldehyde,Glycerol Dehydrogenase,Glyceraldehyde facilitated diffusion

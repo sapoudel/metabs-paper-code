@@ -1,0 +1,77 @@
+,name,imodulon_size,function
+0,Vir-1,19,Virulence
+1,FruR,3,Carbon Metabolism
+2,LrgAB,2,Stress Response
+3,Autolysin,15,Cellular Processes
+4,BetR,3,Stress Response
+5,Phi-Sa3-1,31,Prophages
+6,Purine,8,AA/Nucleotide Metabolism
+7,LTA,7,Cellular Processes
+8,Unc-9,34,Uncharacterized
+9,TPP,7,AA/Nucleotide Metabolism
+10,PurR,14,AA/Nucleotide Metabolism
+11,VraS2-1,12,Stress Response
+12,PhoR,8,Misc. Metabolism
+13,CcpA-1,110,Carbon Metabolism
+14,Beta Lactam Resistance,6,Stress Response
+15,CggR,5,Carbon Metabolism
+16,TA system,2,Stress Response
+17,FadR,7,Misc. Metabolism
+18,SG_1,3,Single gene
+19,SG_2,7,Single gene
+20,Rex-1,39,Misc. Metabolism
+21,GlpR,4,Carbon Metabolism
+22,FMN,6,Misc. Metabolism
+23,ArcR,5,AA/Nucleotide Metabolism
+24,PyrR,9,AA/Nucleotide Metabolism
+25,scfm2 artefact,20,Uncharacterized
+26,SG_3,57,Single gene
+27,Unc-1,20,Uncharacterized
+28,Genomic Island 3,16,Prophages
+29,CodY-1,86,AA/Nucleotide Metabolism
+30,Unc-2,40,Uncharacterized
+31,ILVopr,9,AA/Nucleotide Metabolism
+32,CtsR,10,AA/Nucleotide Metabolism
+33,Vir-2,37,Virulence
+34,Unc-3,27,Uncharacterized
+35,SaeR-2,20,Virulence
+36,SG_4,11,Single gene
+37,CymR,20,AA/Nucleotide Metabolism
+38,SCCMec/ACME,62,Other
+39,AgrA,7,Virulence
+40,Phi-Sa3-2,23,Prophages
+41,HssR,2,Virulence
+42,SG_5,8,Single gene
+43,Phi-Sa3-3,14,Prophages
+44,Translation-1,36,Cellular Processes
+45,Itaconate Response,24,Other
+46,MntR,4,Misc. Metabolism
+47,Unc-4,16,Uncharacterized
+48,VraS2-2,40,Stress Response
+49,SaeR-1,35,Virulence
+50,NreC,12,Misc. Metabolism
+51,Unc-5,97,Uncharacterized
+52,ManR,2,Carbon Metabolism
+53,PurR Accessory,6,AA/Nucleotide Metabolism
+54,Capsule Biosynthesis,19,Virulence
+55,Fur-1,57,Misc. Metabolism
+56,PSM,7,Virulence
+57,MgrA,56,Virulence
+58,LacR,7,Carbon Metabolism
+59,Rex-2,10,Misc. Metabolism
+60,ArlRS,12,Virulence
+61,SG_6,10,Single gene
+62,Translation-2,16,Cellular Processes
+63,SigB,70,Stress Response
+64,Unc-6,19,Uncharacterized
+65,CcpA-2,21,Carbon Metabolism
+66,Fur-2,8,Misc. Metabolism
+67,ArgR,6,AA/Nucleotide Metabolism
+68,SigS,41,Stress Response
+69,Oxoproline metabolism,6,Misc. Metabolism
+70,Ascorbate transport,4,Misc. Metabolism
+71,SG_7,6,Single gene
+72,Unc-8,50,Uncharacterized
+73,CodY-2,15,AA/Nucleotide Metabolism
+74,SG_8,9,Single gene
+75,Unc-7,15,Uncharacterized
