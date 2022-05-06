@@ -1,0 +1,1983 @@
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+Setting up...
+0.26 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.42 seconds elapsed
+Completed run 2 of 13 on Processor 0
+0.82 seconds elapsed
+Completed run 3 of 13 on Processor 0
+1.12 seconds elapsed
+Completed run 4 of 13 on Processor 0
+0.75 seconds elapsed
+Completed run 5 of 13 on Processor 0
+0.93 seconds elapsed
+Completed run 6 of 13 on Processor 0
+0.76 seconds elapsed
+Completed run 7 of 13 on Processor 0
+0.87 seconds elapsed
+Completed run 8 of 13 on Processor 0
+0.92 seconds elapsed
+Completed run 9 of 13 on Processor 0
+0.73 seconds elapsed
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+Setting up...
+0.28 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.01 seconds elapsed
+Completed run 2 of 13 on Processor 0
+0.83 seconds elapsed
+Completed run 3 of 13 on Processor 0
+1.38 seconds elapsed
+Completed run 4 of 13 on Processor 0
+0.88 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.45 seconds elapsed
+Completed run 6 of 13 on Processor 0
+0.86 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.73 seconds elapsed
+Completed run 8 of 13 on Processor 0
+1.00 seconds elapsed
+Completed run 9 of 13 on Processor 0
+1.01 seconds elapsed
+Completed run 10 of 13 on Processor 0
+0.92 seconds elapsed
+Completed run 11 of 13 on Processor 0
+0.91 seconds elapsed
+Completed run 12 of 13 on Processor 0
+1.12 seconds elapsed
+Completed run 13 of 13 on Processor 0
+0.67 seconds elapsed
+
+All ICA runs complete!
+15.46 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+2.71 seconds elapsed
+
+Combining D matrix
+0.25 seconds elapsed
+
+Clustering
+0.07 seconds elapsed
+
+Identified 20 clusters
+Loading individual S and A matrices
+1.89 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.54 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/20
+0.16 seconds elapsed
+Complete!
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+Setting up...
+0.27 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+0.99 seconds elapsed
+Completed run 2 of 13 on Processor 0
+0.88 seconds elapsed
+Completed run 3 of 13 on Processor 0
+0.85 seconds elapsed
+Completed run 4 of 13 on Processor 0
+1.45 seconds elapsed
+Completed run 5 of 13 on Processor 0
+0.86 seconds elapsed
+Completed run 6 of 13 on Processor 0
+1.09 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.30 seconds elapsed
+Completed run 8 of 13 on Processor 0
+1.23 seconds elapsed
+Completed run 9 of 13 on Processor 0
+1.01 seconds elapsed
+Completed run 10 of 13 on Processor 0
+0.93 seconds elapsed
+Completed run 11 of 13 on Processor 0
+1.00 seconds elapsed
+Completed run 12 of 13 on Processor 0
+1.07 seconds elapsed
+Completed run 13 of 13 on Processor 0
+0.93 seconds elapsed
+
+All ICA runs complete!
+15.32 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+3.15 seconds elapsed
+
+Combining D matrix
+0.22 seconds elapsed
+
+Clustering
+0.08 seconds elapsed
+
+Identified 20 clusters
+Loading individual S and A matrices
+2.05 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.84 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/20
+0.18 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 40 of 381 #
+#################################
+
+Setting up...
+0.32 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.74 seconds elapsed
+Completed run 2 of 13 on Processor 0
+1.48 seconds elapsed
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+Setting up...
+0.30 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.61 seconds elapsed
+Completed run 2 of 13 on Processor 0
+0.79 seconds elapsed
+Completed run 3 of 13 on Processor 0
+1.13 seconds elapsed
+Completed run 4 of 13 on Processor 0
+1.54 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.02 seconds elapsed
+Completed run 6 of 13 on Processor 0
+0.74 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.25 seconds elapsed
+Completed run 8 of 13 on Processor 0
+0.83 seconds elapsed
+Completed run 9 of 13 on Processor 0
+0.89 seconds elapsed
+Completed run 10 of 13 on Processor 0
+1.83 seconds elapsed
+Completed run 11 of 13 on Processor 0
+0.56 seconds elapsed
+Completed run 12 of 13 on Processor 0
+0.78 seconds elapsed
+Completed run 13 of 13 on Processor 0
+1.13 seconds elapsed
+
+All ICA runs complete!
+15.63 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+2.61 seconds elapsed
+
+Combining D matrix
+0.28 seconds elapsed
+
+Clustering
+0.09 seconds elapsed
+
+Identified 20 clusters
+Loading individual S and A matrices
+1.89 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.70 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/20
+0.20 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 40 of 381 #
+#################################
+
+Setting up...
+0.31 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+4.87 seconds elapsed
+Completed run 2 of 13 on Processor 0
+3.74 seconds elapsed
+Completed run 3 of 13 on Processor 0
+2.32 seconds elapsed
+Completed run 4 of 13 on Processor 0
+2.27 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.94 seconds elapsed
+Completed run 6 of 13 on Processor 0
+1.86 seconds elapsed
+Completed run 7 of 13 on Processor 0
+2.09 seconds elapsed
+Completed run 8 of 13 on Processor 0
+3.99 seconds elapsed
+Completed run 9 of 13 on Processor 0
+3.03 seconds elapsed
+Completed run 10 of 13 on Processor 0
+1.18 seconds elapsed
+Completed run 11 of 13 on Processor 0
+2.33 seconds elapsed
+Completed run 12 of 13 on Processor 0
+1.35 seconds elapsed
+Completed run 13 of 13 on Processor 0
+1.94 seconds elapsed
+
+All ICA runs complete!
+36.31 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+4.77 seconds elapsed
+
+Combining D matrix
+0.34 seconds elapsed
+
+Clustering
+0.14 seconds elapsed
+
+Identified 40 clusters
+Loading individual S and A matrices
+3.86 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+8.97 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/40
+0.31 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 60 of 381 #
+#################################
+
+Setting up...
+0.31 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+11.27 seconds elapsed
+Completed run 2 of 13 on Processor 0
+4.48 seconds elapsed
+Completed run 3 of 13 on Processor 0
+6.01 seconds elapsed
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+Setting up...
+0.16 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+0.41 seconds elapsed
+Completed run 2 of 25 on Processor 0
+0.40 seconds elapsed
+Completed run 3 of 25 on Processor 0
+0.34 seconds elapsed
+Completed run 4 of 25 on Processor 0
+0.53 seconds elapsed
+Completed run 5 of 25 on Processor 0
+0.30 seconds elapsed
+Completed run 6 of 25 on Processor 0
+0.38 seconds elapsed
+Completed run 7 of 25 on Processor 0
+0.26 seconds elapsed
+Completed run 8 of 25 on Processor 0
+0.46 seconds elapsed
+Completed run 9 of 25 on Processor 0
+0.34 seconds elapsed
+Completed run 10 of 25 on Processor 0
+0.56 seconds elapsed
+Completed run 11 of 25 on Processor 0
+0.33 seconds elapsed
+Completed run 12 of 25 on Processor 0
+0.33 seconds elapsed
+Completed run 13 of 25 on Processor 0
+0.35 seconds elapsed
+Completed run 14 of 25 on Processor 0
+0.41 seconds elapsed
+Completed run 15 of 25 on Processor 0
+0.45 seconds elapsed
+Completed run 16 of 25 on Processor 0
+0.43 seconds elapsed
+Completed run 17 of 25 on Processor 0
+0.38 seconds elapsed
+Completed run 18 of 25 on Processor 0
+0.48 seconds elapsed
+Completed run 19 of 25 on Processor 0
+0.37 seconds elapsed
+Completed run 20 of 25 on Processor 0
+0.49 seconds elapsed
+Completed run 21 of 25 on Processor 0
+0.41 seconds elapsed
+Completed run 22 of 25 on Processor 0
+0.31 seconds elapsed
+Completed run 23 of 25 on Processor 0
+0.45 seconds elapsed
+Completed run 24 of 25 on Processor 0
+0.30 seconds elapsed
+Completed run 25 of 25 on Processor 0
+0.53 seconds elapsed
+
+All ICA runs complete!
+12.68 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+1.94 seconds elapsed
+
+Combining D matrix
+0.10 seconds elapsed
+
+Clustering
+0.05 seconds elapsed
+
+Identified 20 clusters
+Loading individual S and A matrices
+1.21 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+2.16 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/20
+0.10 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 40 of 381 #
+#################################
+
+Setting up...
+0.16 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+1.17 seconds elapsed
+Completed run 2 of 25 on Processor 0
+2.07 seconds elapsed
+Completed run 3 of 25 on Processor 0
+1.27 seconds elapsed
+Completed run 4 of 25 on Processor 0
+1.09 seconds elapsed
+Completed run 5 of 25 on Processor 0
+2.38 seconds elapsed
+Completed run 6 of 25 on Processor 0
+1.61 seconds elapsed
+Completed run 7 of 25 on Processor 0
+1.01 seconds elapsed
+Completed run 8 of 25 on Processor 0
+0.92 seconds elapsed
+Completed run 9 of 25 on Processor 0
+1.25 seconds elapsed
+Completed run 10 of 25 on Processor 0
+2.97 seconds elapsed
+Completed run 11 of 25 on Processor 0
+2.24 seconds elapsed
+Completed run 12 of 25 on Processor 0
+1.86 seconds elapsed
+Completed run 13 of 25 on Processor 0
+1.02 seconds elapsed
+Completed run 14 of 25 on Processor 0
+1.34 seconds elapsed
+
+#################################
+# Computing dimension 20 of 381 #
+#################################
+
+Setting up...
+0.29 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+0.84 seconds elapsed
+Completed run 2 of 13 on Processor 0
+1.08 seconds elapsed
+Completed run 3 of 13 on Processor 0
+1.00 seconds elapsed
+Completed run 4 of 13 on Processor 0
+0.70 seconds elapsed
+Completed run 5 of 13 on Processor 0
+0.98 seconds elapsed
+Completed run 6 of 13 on Processor 0
+0.94 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.02 seconds elapsed
+Completed run 8 of 13 on Processor 0
+0.96 seconds elapsed
+Completed run 9 of 13 on Processor 0
+1.38 seconds elapsed
+Completed run 10 of 13 on Processor 0
+1.04 seconds elapsed
+Completed run 11 of 13 on Processor 0
+0.75 seconds elapsed
+Completed run 12 of 13 on Processor 0
+1.63 seconds elapsed
+Completed run 13 of 13 on Processor 0
+1.00 seconds elapsed
+
+All ICA runs complete!
+15.27 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+2.71 seconds elapsed
+
+Combining D matrix
+0.22 seconds elapsed
+
+Clustering
+0.08 seconds elapsed
+
+Identified 20 clusters
+Loading individual S and A matrices
+2.32 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.84 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/20
+0.16 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 40 of 381 #
+#################################
+
+Setting up...
+0.30 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.86 seconds elapsed
+Completed run 2 of 13 on Processor 0
+1.91 seconds elapsed
+Completed run 3 of 13 on Processor 0
+2.39 seconds elapsed
+Completed run 4 of 13 on Processor 0
+3.80 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.89 seconds elapsed
+Completed run 6 of 13 on Processor 0
+4.42 seconds elapsed
+Completed run 7 of 13 on Processor 0
+2.91 seconds elapsed
+Completed run 8 of 13 on Processor 0
+2.26 seconds elapsed
+Completed run 9 of 13 on Processor 0
+2.87 seconds elapsed
+Completed run 10 of 13 on Processor 0
+2.10 seconds elapsed
+Completed run 11 of 13 on Processor 0
+3.22 seconds elapsed
+Completed run 12 of 13 on Processor 0
+1.80 seconds elapsed
+Completed run 13 of 13 on Processor 0
+0.94 seconds elapsed
+
+All ICA runs complete!
+35.75 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+5.10 seconds elapsed
+
+Combining D matrix
+0.26 seconds elapsed
+
+Clustering
+0.18 seconds elapsed
+
+Identified 40 clusters
+Loading individual S and A matrices
+3.84 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+9.03 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/40
+0.37 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 60 of 381 #
+#################################
+
+Setting up...
+0.36 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+5.80 seconds elapsed
+Completed run 2 of 13 on Processor 0
+5.94 seconds elapsed
+Completed run 3 of 13 on Processor 0
+3.28 seconds elapsed
+Completed run 4 of 13 on Processor 0
+2.38 seconds elapsed
+Completed run 5 of 13 on Processor 0
+4.18 seconds elapsed
+Completed run 6 of 13 on Processor 0
+2.84 seconds elapsed
+Completed run 7 of 13 on Processor 0
+4.61 seconds elapsed
+Completed run 8 of 13 on Processor 0
+3.82 seconds elapsed
+Completed run 9 of 13 on Processor 0
+9.61 seconds elapsed
+Completed run 10 of 13 on Processor 0
+2.88 seconds elapsed
+Completed run 11 of 13 on Processor 0
+3.80 seconds elapsed
+Completed run 12 of 13 on Processor 0
+5.13 seconds elapsed
+Completed run 13 of 13 on Processor 0
+5.55 seconds elapsed
+
+All ICA runs complete!
+1.11 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+7.77 seconds elapsed
+
+Combining D matrix
+0.28 seconds elapsed
+
+Clustering
+0.30 seconds elapsed
+
+Identified 59 clusters
+Loading individual S and A matrices
+6.43 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+13.84 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/60
+0.43 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 80 of 381 #
+#################################
+
+Setting up...
+0.28 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+10.18 seconds elapsed
+Completed run 2 of 13 on Processor 0
+7.43 seconds elapsed
+Completed run 3 of 13 on Processor 0
+7.45 seconds elapsed
+Completed run 4 of 13 on Processor 0
+8.84 seconds elapsed
+Completed run 5 of 13 on Processor 0
+10.98 seconds elapsed
+Completed run 6 of 13 on Processor 0
+8.82 seconds elapsed
+Completed run 7 of 13 on Processor 0
+11.69 seconds elapsed
+Completed run 8 of 13 on Processor 0
+6.32 seconds elapsed
+Completed run 9 of 13 on Processor 0
+8.68 seconds elapsed
+Completed run 10 of 13 on Processor 0
+5.55 seconds elapsed
+Completed run 11 of 13 on Processor 0
+6.86 seconds elapsed
+Completed run 12 of 13 on Processor 0
+3.41 seconds elapsed
+Completed run 13 of 13 on Processor 0
+6.63 seconds elapsed
+
+All ICA runs complete!
+1.84 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+10.56 seconds elapsed
+
+Combining D matrix
+0.32 seconds elapsed
+
+Clustering
+0.33 seconds elapsed
+
+Identified 79 clusters
+Loading individual S and A matrices
+7.95 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+18.51 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/80
+0.53 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 100 of 381 #
+##################################
+
+Setting up...
+0.27 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+9.66 seconds elapsed
+Completed run 2 of 13 on Processor 0
+8.97 seconds elapsed
+Completed run 3 of 13 on Processor 0
+25.57 seconds elapsed
+Completed run 4 of 13 on Processor 0
+19.27 seconds elapsed
+Completed run 5 of 13 on Processor 0
+24.51 seconds elapsed
+Completed run 6 of 13 on Processor 0
+17.23 seconds elapsed
+Completed run 7 of 13 on Processor 0
+23.48 seconds elapsed
+Completed run 8 of 13 on Processor 0
+13.21 seconds elapsed
+Completed run 9 of 13 on Processor 0
+8.24 seconds elapsed
+Completed run 10 of 13 on Processor 0
+8.48 seconds elapsed
+Completed run 11 of 13 on Processor 0
+10.85 seconds elapsed
+Completed run 12 of 13 on Processor 0
+16.91 seconds elapsed
+Completed run 13 of 13 on Processor 0
+10.11 seconds elapsed
+
+All ICA runs complete!
+3.45 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+13.43 seconds elapsed
+
+Combining D matrix
+0.37 seconds elapsed
+
+Clustering
+0.37 seconds elapsed
+
+Identified 90 clusters
+Loading individual S and A matrices
+10.46 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+21.38 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/100
+0.67 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 120 of 381 #
+##################################
+
+Setting up...
+0.26 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+33.84 seconds elapsed
+Completed run 2 of 13 on Processor 0
+22.09 seconds elapsed
+Completed run 3 of 13 on Processor 0
+14.79 seconds elapsed
+Completed run 4 of 13 on Processor 0
+21.59 seconds elapsed
+Completed run 5 of 13 on Processor 0
+20.93 seconds elapsed
+Completed run 6 of 13 on Processor 0
+33.44 seconds elapsed
+Completed run 7 of 13 on Processor 0
+27.17 seconds elapsed
+Completed run 8 of 13 on Processor 0
+32.50 seconds elapsed
+Completed run 9 of 13 on Processor 0
+53.95 seconds elapsed
+Completed run 10 of 13 on Processor 0
+16.96 seconds elapsed
+Completed run 11 of 13 on Processor 0
+11.58 seconds elapsed
+Completed run 12 of 13 on Processor 0
+23.11 seconds elapsed
+Completed run 13 of 13 on Processor 0
+18.81 seconds elapsed
+
+All ICA runs complete!
+5.72 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+17.03 seconds elapsed
+
+Combining D matrix
+0.40 seconds elapsed
+
+Clustering
+0.47 seconds elapsed
+
+Identified 101 clusters
+Loading individual S and A matrices
+11.98 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+22.43 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/120
+0.79 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 140 of 381 #
+##################################
+
+Setting up...
+0.34 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+26.94 seconds elapsed
+Completed run 2 of 13 on Processor 0
+39.28 seconds elapsed
+Completed run 3 of 13 on Processor 0
+31.54 seconds elapsed
+Completed run 4 of 13 on Processor 0
+38.08 seconds elapsed
+Completed run 5 of 13 on Processor 0
+56.45 seconds elapsed
+Completed run 6 of 13 on Processor 0
+43.01 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.01 minutes elapsed
+Completed run 8 of 13 on Processor 0
+34.68 seconds elapsed
+Completed run 9 of 13 on Processor 0
+43.62 seconds elapsed
+Completed run 10 of 13 on Processor 0
+58.96 seconds elapsed
+Completed run 11 of 13 on Processor 0
+33.16 seconds elapsed
+Completed run 12 of 13 on Processor 0
+14.70 seconds elapsed
+Completed run 13 of 13 on Processor 0
+33.54 seconds elapsed
+
+All ICA runs complete!
+8.79 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+20.56 seconds elapsed
+
+Combining D matrix
+0.45 seconds elapsed
+
+Clustering
+0.54 seconds elapsed
+
+Identified 116 clusters
+Loading individual S and A matrices
+14.36 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+27.32 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/140
+0.82 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 160 of 381 #
+##################################
+
+Setting up...
+0.33 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.00 minutes elapsed
+Completed run 2 of 13 on Processor 0
+1.87 minutes elapsed
+Completed run 3 of 13 on Processor 0
+49.75 seconds elapsed
+Completed run 4 of 13 on Processor 0
+1.18 minutes elapsed
+Completed run 5 of 13 on Processor 0
+53.92 seconds elapsed
+Completed run 6 of 13 on Processor 0
+55.54 seconds elapsed
+Completed run 7 of 13 on Processor 0
+40.01 seconds elapsed
+Completed run 8 of 13 on Processor 0
+1.34 minutes elapsed
+Completed run 9 of 13 on Processor 0
+39.42 seconds elapsed
+Completed run 10 of 13 on Processor 0
+1.33 minutes elapsed
+Completed run 11 of 13 on Processor 0
+51.82 seconds elapsed
+Completed run 12 of 13 on Processor 0
+35.13 seconds elapsed
+Completed run 13 of 13 on Processor 0
+41.63 seconds elapsed
+
+All ICA runs complete!
+13.10 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+25.93 seconds elapsed
+
+Combining D matrix
+0.47 seconds elapsed
+
+Clustering
+0.74 seconds elapsed
+
+Identified 135 clusters
+Loading individual S and A matrices
+18.06 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+32.87 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/160
+1.08 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 180 of 381 #
+##################################
+
+Setting up...
+0.25 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+55.51 seconds elapsed
+Completed run 2 of 13 on Processor 0
+2.32 minutes elapsed
+Completed run 3 of 13 on Processor 0
+1.73 minutes elapsed
+Completed run 4 of 13 on Processor 0
+1.40 minutes elapsed
+Completed run 5 of 13 on Processor 0
+1.42 minutes elapsed
+Completed run 6 of 13 on Processor 0
+1.14 minutes elapsed
+Completed run 7 of 13 on Processor 0
+1.08 minutes elapsed
+Completed run 8 of 13 on Processor 0
+1.14 minutes elapsed
+Completed run 9 of 13 on Processor 0
+1.69 minutes elapsed
+Completed run 10 of 13 on Processor 0
+1.67 minutes elapsed
+Completed run 11 of 13 on Processor 0
+1.46 minutes elapsed
+Completed run 12 of 13 on Processor 0
+39.21 seconds elapsed
+Completed run 13 of 13 on Processor 0
+55.67 seconds elapsed
+
+All ICA runs complete!
+17.84 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+31.59 seconds elapsed
+
+Combining D matrix
+0.51 seconds elapsed
+
+Clustering
+0.69 seconds elapsed
+
+Identified 138 clusters
+Loading individual S and A matrices
+20.07 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+32.03 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/180
+1.11 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 200 of 381 #
+##################################
+
+Setting up...
+0.26 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+2.29 minutes elapsed
+Completed run 2 of 13 on Processor 0
+1.62 minutes elapsed
+Completed run 3 of 13 on Processor 0
+3.16 minutes elapsed
+Completed run 4 of 13 on Processor 0
+2.12 minutes elapsed
+Completed run 5 of 13 on Processor 0
+2.29 minutes elapsed
+Completed run 6 of 13 on Processor 0
+1.92 minutes elapsed
+Completed run 7 of 13 on Processor 0
+1.75 minutes elapsed
+Completed run 8 of 13 on Processor 0
+2.41 minutes elapsed
+Completed run 9 of 13 on Processor 0
+1.50 minutes elapsed
+Completed run 10 of 13 on Processor 0
+1.38 minutes elapsed
+Completed run 11 of 13 on Processor 0
+1.75 minutes elapsed
+Completed run 12 of 13 on Processor 0
+2.02 minutes elapsed
+Completed run 13 of 13 on Processor 0
+2.29 minutes elapsed
+
+All ICA runs complete!
+26.78 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+34.14 seconds elapsed
+
+Combining D matrix
+0.53 seconds elapsed
+
+Clustering
+0.80 seconds elapsed
+
+Identified 161 clusters
+Loading individual S and A matrices
+22.93 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+37.83 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/200
+1.12 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 220 of 381 #
+##################################
+
+Setting up...
+0.26 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.90 minutes elapsed
+Completed run 2 of 13 on Processor 0
+4.10 minutes elapsed
+Completed run 3 of 13 on Processor 0
+2.32 minutes elapsed
+Completed run 4 of 13 on Processor 0
+4.20 minutes elapsed
+Completed run 5 of 13 on Processor 0
+5.70 minutes elapsed
+Completed run 6 of 13 on Processor 0
+2.31 minutes elapsed
+Completed run 7 of 13 on Processor 0
+1.61 minutes elapsed
+Completed run 8 of 13 on Processor 0
+2.63 minutes elapsed
+
+#################################
+# Computing dimension 20 of 240 #
+#################################
+
+
+
+#################################
+# Computing dimension 40 of 240 #
+#################################
+
+
+
+#################################
+# Computing dimension 60 of 240 #
+#################################
+
+
+#################################
+# Computing dimension 20 of 240 #
+#################################
+
+Setting up...
+0.35 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.01 seconds elapsed
+Completed run 2 of 13 on Processor 0
+0.77 seconds elapsed
+Completed run 3 of 13 on Processor 0
+0.82 seconds elapsed
+Completed run 4 of 13 on Processor 0
+0.76 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.06 seconds elapsed
+Completed run 6 of 13 on Processor 0
+0.95 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.50 seconds elapsed
+Completed run 8 of 13 on Processor 0
+0.85 seconds elapsed
+Completed run 9 of 13 on Processor 0
+0.81 seconds elapsed
+Completed run 10 of 13 on Processor 0
+1.21 seconds elapsed
+Completed run 11 of 13 on Processor 0
+0.78 seconds elapsed
+Completed run 12 of 13 on Processor 0
+0.80 seconds elapsed
+Completed run 13 of 13 on Processor 0
+0.32 seconds elapsed
+
+All ICA runs complete!
+13.53 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+2.92 seconds elapsed
+
+Combining D matrix
+0.27 seconds elapsed
+
+Clustering
+0.08 seconds elapsed
+
+Identified 19 clusters
+Loading individual S and A matrices
+1.84 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.23 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/20
+0.12 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 40 of 240 #
+#################################
+
+Setting up...
+0.39 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+2.02 seconds elapsed
+Completed run 2 of 13 on Processor 0
+3.62 seconds elapsed
+Completed run 3 of 13 on Processor 0
+1.24 seconds elapsed
+Completed run 4 of 13 on Processor 0
+3.17 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.25 seconds elapsed
+Completed run 6 of 13 on Processor 0
+1.63 seconds elapsed
+Completed run 7 of 13 on Processor 0
+1.04 seconds elapsed
+Completed run 8 of 13 on Processor 0
+1.68 seconds elapsed
+Completed run 9 of 13 on Processor 0
+1.15 seconds elapsed
+Completed run 10 of 13 on Processor 0
+1.11 seconds elapsed
+Completed run 11 of 13 on Processor 0
+1.65 seconds elapsed
+Completed run 12 of 13 on Processor 0
+1.35 seconds elapsed
+Completed run 13 of 13 on Processor 0
+1.40 seconds elapsed
+
+All ICA runs complete!
+26.15 seconds elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+4.75 seconds elapsed
+
+Combining D matrix
+0.27 seconds elapsed
+
+Clustering
+0.13 seconds elapsed
+
+Identified 38 clusters
+Loading individual S and A matrices
+3.80 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+8.20 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/40
+0.27 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 60 of 240 #
+#################################
+
+Setting up...
+0.34 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+7.65 seconds elapsed
+Completed run 2 of 13 on Processor 0
+3.87 seconds elapsed
+Completed run 3 of 13 on Processor 0
+5.52 seconds elapsed
+Completed run 4 of 13 on Processor 0
+2.32 seconds elapsed
+Completed run 5 of 13 on Processor 0
+12.76 seconds elapsed
+Completed run 6 of 13 on Processor 0
+7.40 seconds elapsed
+Completed run 7 of 13 on Processor 0
+5.99 seconds elapsed
+Completed run 8 of 13 on Processor 0
+5.82 seconds elapsed
+Completed run 9 of 13 on Processor 0
+3.58 seconds elapsed
+Completed run 10 of 13 on Processor 0
+4.36 seconds elapsed
+Completed run 11 of 13 on Processor 0
+6.91 seconds elapsed
+Completed run 12 of 13 on Processor 0
+2.14 seconds elapsed
+Completed run 13 of 13 on Processor 0
+2.25 seconds elapsed
+
+All ICA runs complete!
+1.26 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+7.71 seconds elapsed
+
+Combining D matrix
+0.33 seconds elapsed
+
+Clustering
+0.24 seconds elapsed
+
+Identified 47 clusters
+Loading individual S and A matrices
+5.92 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+10.52 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/60
+0.40 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 80 of 240 #
+#################################
+
+Setting up...
+0.35 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+13.64 seconds elapsed
+Completed run 2 of 13 on Processor 0
+9.18 seconds elapsed
+Completed run 3 of 13 on Processor 0
+6.96 seconds elapsed
+Completed run 4 of 13 on Processor 0
+10.92 seconds elapsed
+Completed run 5 of 13 on Processor 0
+6.14 seconds elapsed
+Completed run 6 of 13 on Processor 0
+13.68 seconds elapsed
+Completed run 7 of 13 on Processor 0
+8.34 seconds elapsed
+Completed run 8 of 13 on Processor 0
+7.01 seconds elapsed
+Completed run 9 of 13 on Processor 0
+16.16 seconds elapsed
+Completed run 10 of 13 on Processor 0
+12.79 seconds elapsed
+Completed run 11 of 13 on Processor 0
+10.39 seconds elapsed
+Completed run 12 of 13 on Processor 0
+14.21 seconds elapsed
+Completed run 13 of 13 on Processor 0
+9.08 seconds elapsed
+
+All ICA runs complete!
+2.44 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+10.68 seconds elapsed
+
+Combining D matrix
+0.35 seconds elapsed
+
+Clustering
+0.23 seconds elapsed
+
+Identified 59 clusters
+Loading individual S and A matrices
+8.15 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+13.89 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/80
+0.53 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 100 of 240 #
+##################################
+
+Setting up...
+0.36 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+28.55 seconds elapsed
+Completed run 2 of 13 on Processor 0
+22.98 seconds elapsed
+Completed run 3 of 13 on Processor 0
+22.66 seconds elapsed
+Completed run 4 of 13 on Processor 0
+25.39 seconds elapsed
+Completed run 5 of 13 on Processor 0
+19.54 seconds elapsed
+Completed run 6 of 13 on Processor 0
+24.61 seconds elapsed
+Completed run 7 of 13 on Processor 0
+29.17 seconds elapsed
+Completed run 8 of 13 on Processor 0
+21.66 seconds elapsed
+Completed run 9 of 13 on Processor 0
+24.97 seconds elapsed
+Completed run 10 of 13 on Processor 0
+14.64 seconds elapsed
+Completed run 11 of 13 on Processor 0
+17.98 seconds elapsed
+Completed run 12 of 13 on Processor 0
+18.86 seconds elapsed
+Completed run 13 of 13 on Processor 0
+23.52 seconds elapsed
+
+All ICA runs complete!
+5.06 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+13.48 seconds elapsed
+
+Combining D matrix
+0.36 seconds elapsed
+
+Clustering
+0.38 seconds elapsed
+
+Identified 61 clusters
+Loading individual S and A matrices
+9.74 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+13.56 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/100
+0.44 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 120 of 240 #
+##################################
+
+Setting up...
+0.34 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+38.23 seconds elapsed
+Completed run 2 of 13 on Processor 0
+32.99 seconds elapsed
+Completed run 3 of 13 on Processor 0
+1.06 minutes elapsed
+Completed run 4 of 13 on Processor 0
+31.70 seconds elapsed
+Completed run 5 of 13 on Processor 0
+53.47 seconds elapsed
+Completed run 6 of 13 on Processor 0
+32.61 seconds elapsed
+Completed run 7 of 13 on Processor 0
+40.58 seconds elapsed
+Completed run 8 of 13 on Processor 0
+37.92 seconds elapsed
+Completed run 9 of 13 on Processor 0
+30.65 seconds elapsed
+Completed run 10 of 13 on Processor 0
+33.52 seconds elapsed
+Completed run 11 of 13 on Processor 0
+1.81 minutes elapsed
+Completed run 12 of 13 on Processor 0
+27.16 seconds elapsed
+Completed run 13 of 13 on Processor 0
+27.28 seconds elapsed
+
+All ICA runs complete!
+9.46 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+17.29 seconds elapsed
+
+Combining D matrix
+0.36 seconds elapsed
+
+Clustering
+0.37 seconds elapsed
+
+Identified 58 clusters
+Loading individual S and A matrices
+11.66 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+13.13 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/120
+0.41 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 140 of 240 #
+##################################
+
+Setting up...
+0.44 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.45 minutes elapsed
+Completed run 2 of 13 on Processor 0
+1.03 minutes elapsed
+Completed run 3 of 13 on Processor 0
+44.52 seconds elapsed
+Completed run 4 of 13 on Processor 0
+52.96 seconds elapsed
+Completed run 5 of 13 on Processor 0
+1.14 minutes elapsed
+Completed run 6 of 13 on Processor 0
+58.34 seconds elapsed
+Completed run 7 of 13 on Processor 0
+47.76 seconds elapsed
+Completed run 8 of 13 on Processor 0
+1.19 minutes elapsed
+Completed run 9 of 13 on Processor 0
+1.74 minutes elapsed
+Completed run 10 of 13 on Processor 0
+1.34 minutes elapsed
+Completed run 11 of 13 on Processor 0
+48.20 seconds elapsed
+Completed run 12 of 13 on Processor 0
+45.46 seconds elapsed
+Completed run 13 of 13 on Processor 0
+56.51 seconds elapsed
+
+All ICA runs complete!
+14.05 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+20.37 seconds elapsed
+
+Combining D matrix
+0.39 seconds elapsed
+
+Clustering
+0.43 seconds elapsed
+
+Identified 64 clusters
+Loading individual S and A matrices
+13.56 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+14.59 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/140
+0.51 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 160 of 240 #
+##################################
+
+Setting up...
+0.48 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.18 minutes elapsed
+Completed run 2 of 13 on Processor 0
+35.84 seconds elapsed
+Completed run 3 of 13 on Processor 0
+3.23 minutes elapsed
+Completed run 4 of 13 on Processor 0
+54.14 seconds elapsed
+Completed run 5 of 13 on Processor 0
+54.05 seconds elapsed
+Completed run 6 of 13 on Processor 0
+2.25 minutes elapsed
+Completed run 7 of 13 on Processor 0
+2.33 minutes elapsed
+Completed run 8 of 13 on Processor 0
+2.74 minutes elapsed
+Completed run 9 of 13 on Processor 0
+2.57 minutes elapsed
+Completed run 10 of 13 on Processor 0
+3.06 minutes elapsed
+Completed run 11 of 13 on Processor 0
+2.91 minutes elapsed
+Completed run 12 of 13 on Processor 0
+49.13 seconds elapsed
+Completed run 13 of 13 on Processor 0
+1.01 minutes elapsed
+
+All ICA runs complete!
+24.70 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+25.03 seconds elapsed
+
+Combining D matrix
+0.39 seconds elapsed
+
+Clustering
+0.52 seconds elapsed
+
+Identified 68 clusters
+Loading individual S and A matrices
+16.44 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+16.01 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/160
+0.54 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 180 of 240 #
+##################################
+
+Setting up...
+0.36 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+3.66 minutes elapsed
+Completed run 2 of 13 on Processor 0
+2.44 minutes elapsed
+Completed run 3 of 13 on Processor 0
+2.94 minutes elapsed
+Completed run 4 of 13 on Processor 0
+3.65 minutes elapsed
+Completed run 5 of 13 on Processor 0
+2.49 minutes elapsed
+Completed run 6 of 13 on Processor 0
+2.45 minutes elapsed
+Completed run 7 of 13 on Processor 0
+2.53 minutes elapsed
+Completed run 8 of 13 on Processor 0
+4.58 minutes elapsed
+Completed run 9 of 13 on Processor 0
+2.32 minutes elapsed
+Completed run 10 of 13 on Processor 0
+2.55 minutes elapsed
+Completed run 11 of 13 on Processor 0
+2.98 minutes elapsed
+Completed run 12 of 13 on Processor 0
+2.91 minutes elapsed
+Completed run 13 of 13 on Processor 0
+1.41 minutes elapsed
+
+All ICA runs complete!
+37.15 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+30.24 seconds elapsed
+
+Combining D matrix
+0.44 seconds elapsed
+
+Clustering
+0.63 seconds elapsed
+
+Identified 86 clusters
+Loading individual S and A matrices
+19.59 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+18.96 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/180
+0.75 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 200 of 240 #
+##################################
+
+Setting up...
+0.34 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+1.82 minutes elapsed
+Completed run 2 of 13 on Processor 0
+2.96 minutes elapsed
+Completed run 3 of 13 on Processor 0
+4.48 minutes elapsed
+Completed run 4 of 13 on Processor 0
+3.93 minutes elapsed
+Completed run 5 of 13 on Processor 0
+4.00 minutes elapsed
+Completed run 6 of 13 on Processor 0
+1.98 minutes elapsed
+Completed run 7 of 13 on Processor 0
+3.15 minutes elapsed
+Completed run 8 of 13 on Processor 0
+2.34 minutes elapsed
+Completed run 9 of 13 on Processor 0
+3.62 minutes elapsed
+Completed run 10 of 13 on Processor 0
+4.70 minutes elapsed
+Completed run 11 of 13 on Processor 0
+2.83 minutes elapsed
+Completed run 12 of 13 on Processor 0
+1.73 minutes elapsed
+Completed run 13 of 13 on Processor 0
+7.87 minutes elapsed
+
+All ICA runs complete!
+45.70 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+36.07 seconds elapsed
+
+Combining D matrix
+0.52 seconds elapsed
+
+Clustering
+0.59 seconds elapsed
+
+Identified 96 clusters
+Loading individual S and A matrices
+21.89 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+21.75 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/200
+0.77 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 220 of 240 #
+##################################
+
+Setting up...
+0.38 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+4.29 minutes elapsed
+Completed run 2 of 13 on Processor 0
+2.93 minutes elapsed
+Completed run 3 of 13 on Processor 0
+2.88 minutes elapsed
+Completed run 4 of 13 on Processor 0
+3.44 minutes elapsed
+Completed run 5 of 13 on Processor 0
+4.47 minutes elapsed
+Completed run 6 of 13 on Processor 0
+2.61 minutes elapsed
+Completed run 7 of 13 on Processor 0
+4.21 minutes elapsed
+Completed run 8 of 13 on Processor 0
+1.76 minutes elapsed
+Completed run 9 of 13 on Processor 0
+4.92 minutes elapsed
+Completed run 10 of 13 on Processor 0
+4.87 minutes elapsed
+Completed run 11 of 13 on Processor 0
+2.60 minutes elapsed
+Completed run 12 of 13 on Processor 0
+8.10 minutes elapsed
+Completed run 13 of 13 on Processor 0
+3.69 minutes elapsed
+
+All ICA runs complete!
+51.19 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+40.04 seconds elapsed
+
+Combining D matrix
+0.49 seconds elapsed
+
+Clustering
+0.66 seconds elapsed
+
+Identified 119 clusters
+Loading individual S and A matrices
+24.48 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+26.86 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/220
+1.10 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 240 of 240 #
+##################################
+
+Setting up...
+0.40 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+6.24 minutes elapsed
+Completed run 2 of 13 on Processor 0
+2.46 minutes elapsed
+Completed run 3 of 13 on Processor 0
+3.41 minutes elapsed
+Completed run 4 of 13 on Processor 0
+6.93 minutes elapsed
+Completed run 5 of 13 on Processor 0
+9.22 minutes elapsed
+Completed run 6 of 13 on Processor 0
+8.04 minutes elapsed
+Completed run 7 of 13 on Processor 0
+7.44 minutes elapsed
+Completed run 8 of 13 on Processor 0
+6.17 minutes elapsed
+Completed run 9 of 13 on Processor 0
+7.11 minutes elapsed
+Completed run 10 of 13 on Processor 0
+2.81 minutes elapsed
+Completed run 11 of 13 on Processor 0
+8.01 minutes elapsed
+Completed run 12 of 13 on Processor 0
+1.82 minutes elapsed
+Completed run 13 of 13 on Processor 0
+2.84 minutes elapsed
+
+All ICA runs complete!
+1.21 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+43.22 seconds elapsed
+
+Combining D matrix
+0.52 seconds elapsed
+
+Clustering
+0.78 seconds elapsed
+
+Identified 135 clusters
+Loading individual S and A matrices
+26.13 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+30.91 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/240
+1.16 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 260 of 389 #
+##################################
+
+
+##################################
+# Computing dimension 260 of 389 #
+##################################
+
+Setting up...
+0.33 seconds elapsed
+
+Running ICA...
+
+##################################
+# Computing dimension 260 of 389 #
+##################################
+
+Setting up...
+0.35 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+5.67 minutes elapsed
+Completed run 2 of 13 on Processor 0
+5.12 minutes elapsed
+Completed run 3 of 13 on Processor 0
+11.23 minutes elapsed
+Completed run 4 of 13 on Processor 0
+10.22 minutes elapsed
+Completed run 5 of 13 on Processor 0
+3.01 minutes elapsed
+Completed run 6 of 13 on Processor 0
+4.12 minutes elapsed
+Completed run 7 of 13 on Processor 0
+7.77 minutes elapsed
+Completed run 8 of 13 on Processor 0
+7.48 minutes elapsed
+Completed run 9 of 13 on Processor 0
+5.59 minutes elapsed
+Completed run 10 of 13 on Processor 0
+9.68 minutes elapsed
+Completed run 11 of 13 on Processor 0
+6.29 minutes elapsed
+Completed run 12 of 13 on Processor 0
+4.83 minutes elapsed
+Completed run 13 of 13 on Processor 0
+5.83 minutes elapsed
+
+All ICA runs complete!
+1.45 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+49.09 seconds elapsed
+
+Combining D matrix
+0.59 seconds elapsed
+
+Clustering
+0.89 seconds elapsed
+
+Identified 154 clusters
+Loading individual S and A matrices
+28.45 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+35.37 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/260
+1.19 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 280 of 389 #
+##################################
+
+Setting up...
+0.34 seconds elapsed
+
+Running ICA...
+Completed run 1 of 13 on Processor 0
+4.84 minutes elapsed
+Completed run 2 of 13 on Processor 0
+6.76 minutes elapsed
+Completed run 3 of 13 on Processor 0
+9.97 minutes elapsed
+Completed run 4 of 13 on Processor 0
+7.30 minutes elapsed
+Completed run 5 of 13 on Processor 0
+10.32 minutes elapsed
+Completed run 6 of 13 on Processor 0
+5.59 minutes elapsed
+Completed run 7 of 13 on Processor 0
+8.25 minutes elapsed
+Completed run 8 of 13 on Processor 0
+10.85 minutes elapsed
+Completed run 9 of 13 on Processor 0
+5.82 minutes elapsed
+Completed run 10 of 13 on Processor 0
+7.49 minutes elapsed
+Completed run 11 of 13 on Processor 0
+3.99 minutes elapsed
+Completed run 12 of 13 on Processor 0
+5.19 minutes elapsed
+Completed run 13 of 13 on Processor 0
+5.19 minutes elapsed
+
+All ICA runs complete!
+1.53 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+53.62 seconds elapsed
+
+Combining D matrix
+0.63 seconds elapsed
+
+Clustering
+1.00 seconds elapsed
+
+Identified 175 clusters
+Loading individual S and A matrices
+32.33 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+41.20 seconds elapsed
+Writing files to /home/saugat/Desktop/modulome-workflow/4_optICA/ica_runs/280
+1.49 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 300 of 389 #
+##################################
+
+Setting up...
+0.34 seconds elapsed
+
+Running ICA...

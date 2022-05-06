@@ -1,0 +1,83 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.3 (Release date: Sun Feb 7 15:39:52 2021 -0800)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= motifs/VraS2-1.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op1053                   1.0000    600  Op1106                   1.0000    600  
+Op1194                   1.0000    600  Op1220                   1.0000    600  
+Op1228                   1.0000    600  Op1236                   1.0000    600  
+Op1237                   1.0000    600  Op1238                   1.0000    600  
+Op1362                   1.0000    600  Op1482                   1.0000    600  
+Op1493                   1.0000    600  Op1520                   1.0000    600  
+Op1580                   1.0000    600  Op1581                   1.0000    600  
+Op1635                   1.0000    600  Op1636                   1.0000    600  
+Op1733                   1.0000    600  Op1734                   1.0000    600  
+Op1778                   1.0000    600  Op1788                   1.0000    600  
+Op1789                   1.0000    600  Op239                    1.0000    600  
+Op290                    1.0000    600  Op429                    1.0000    600  
+Op674                    1.0000    600  Op872                    1.0000    600  
+Op907                    1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme motifs/VraS2-1.fasta -oc motifs/VraS2-1 -dna -mod zoops -p 8 -nmotifs 5 -evt 0.001 -minw 6 -maxw 40 -allw -minsites 9 
+
+model:  mod=         zoops    nmotifs=         5    evt=         0.001
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            6    maxw=           40
+nsites: minsites=        9    maxsites=       27    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=           16200    N=              27
+sample: seed=            0    hsfrac=          0
+        searchsize=  16200    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.335 C 0.167 G 0.138 T 0.36 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.335 C 0.167 G 0.138 T 0.36 
+Background model order: 0
+********************************************************************************
+
+********************************************************************************
+Stopped because motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: 1468acf55fcb
+
+********************************************************************************

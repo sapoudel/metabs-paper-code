@@ -1,0 +1,81 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.3 (Release date: Sun Feb 7 15:39:52 2021 -0800)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= motifs/Uncharacterized-2.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op1029                   1.0000    600  Op1095                   1.0000    600  
+Op1208                   1.0000    600  Op1209                   1.0000    600  
+Op1308                   1.0000    600  Op1374                   1.0000    600  
+Op138                    1.0000    600  Op1383                   1.0000    600  
+Op1393                   1.0000    600  Op1523                   1.0000    600  
+Op1656                   1.0000    600  Op1777                   1.0000    600  
+Op1804                   1.0000    600  Op22                     1.0000    600  
+Op238                    1.0000    600  Op376                    1.0000    600  
+Op378                    1.0000    600  Op379                    1.0000    600  
+Op617                    1.0000    600  Op826                    1.0000    600  
+Op875                    1.0000    600  Op904                    1.0000    600  
+Op969                    1.0000    600  Op97                     1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme motifs/Uncharacterized-2.fasta -oc motifs/Uncharacterized-2 -dna -mod zoops -p 8 -nmotifs 5 -evt 0.001 -minw 6 -maxw 40 -allw -minsites 8 
+
+model:  mod=         zoops    nmotifs=         5    evt=         0.001
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            6    maxw=           40
+nsites: minsites=        8    maxsites=       24    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=           14400    N=              24
+sample: seed=            0    hsfrac=          0
+        searchsize=  14400    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.353 C 0.158 G 0.154 T 0.335 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.353 C 0.158 G 0.154 T 0.334 
+Background model order: 0
+********************************************************************************
+
+********************************************************************************
+Stopped because motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: 1468acf55fcb
+
+********************************************************************************

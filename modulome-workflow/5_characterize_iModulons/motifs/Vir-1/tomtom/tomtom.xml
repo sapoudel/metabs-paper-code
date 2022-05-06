@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<tomtom version="5.3.3" release="Sun Feb 7 15:39:52 2021 -0800">
+  <model>
+    <command_line>tomtom -oc motifs/Vir-1/tomtom -thresh 0.001 -incomplete-scores -png motifs/Vir-1/meme.txt /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/collectf.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/dpinteract.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/prodoric.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/regtransbase.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme</command_line>
+    <distance_measure value="ed"/>
+    <threshold type="qvalue">0.001</threshold>
+    <alphabet name="DNA" like="dna">
+      <letter id="A" symbol="A" complement="T" name="Adenine" colour="CC0000"/>
+      <letter id="C" symbol="C" complement="G" name="Cytosine" colour="0000CC"/>
+      <letter id="G" symbol="G" complement="C" name="Guanine" colour="FFB300"/>
+      <letter id="T" symbol="T" aliases="U" complement="A" name="Thymine" colour="008000"/>
+      <letter id="N" symbol="N" aliases="X." equals="ACGT" name="Any base"/>
+      <letter id="V" symbol="V" equals="ACG" name="Not T"/>
+      <letter id="H" symbol="H" equals="ACT" name="Not G"/>
+      <letter id="D" symbol="D" equals="AGT" name="Not C"/>
+      <letter id="B" symbol="B" equals="CGT" name="Not A"/>
+      <letter id="M" symbol="M" equals="AC" name="Amino"/>
+      <letter id="R" symbol="R" equals="AG" name="Purine"/>
+      <letter id="W" symbol="W" equals="AT" name="Weak"/>
+      <letter id="S" symbol="S" equals="CG" name="Strong"/>
+      <letter id="Y" symbol="Y" equals="CT" name="Pyrimidine"/>
+      <letter id="K" symbol="K" equals="GT" name="Keto"/>
+    </alphabet>
+    <strands>both</strands>
+    <background from="--query--" A="0.3605" C="0.1395" G="0.1395" T="0.3605"/>
+    <host>1468acf55fcb</host>
+    <when>Tue Jul 13 06:28:01 2021</when>
+  </model>
+  <query_dbs>
+    <db source="motifs/Vir-1/meme.txt" name="meme.txt" loaded="1" excluded="0" last_mod_date="Tue Jul 13 05:44:00 2021"/>
+  </query_dbs>
+  <target_dbs>
+    <db source="/opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/collectf.meme" name="collectf" loaded="84" excluded="0" last_mod_date="Thu Jun 24 01:06:56 2021"/>
+    <db source="/opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/dpinteract.meme" name="dpinteract" loaded="68" excluded="0" last_mod_date="Thu Jun 24 01:06:56 2021"/>
+    <db source="/opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/prodoric.meme" name="prodoric" loaded="201" excluded="0" last_mod_date="Thu Jun 24 01:06:56 2021"/>
+    <db source="/opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/regtransbase.meme" name="regtransbase" loaded="141" excluded="0" last_mod_date="Thu Jun 24 01:06:56 2021"/>
+    <db source="/opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme" name="SwissRegulon_e_coli" loaded="97" excluded="0" last_mod_date="Thu Jun 24 01:06:56 2021"/>
+  </target_dbs>
+  <queries>
+    <motif db="0" id="TTAHDSAYWKTWRHRGMBGMGSWABYTRCACSTHSTY" alt="MEME-1" length="37" nsites="7" evalue="1.7e-008">
+      <pos A="0.00507746" C="0.00196479" G="0.14281" T="0.850148"/>
+      <pos A="0.00507746" C="0.14281" G="0.14281" T="0.709303"/>
+      <pos A="0.850148" C="0.00196479" G="0.00196479" T="0.145922"/>
+      <pos A="0.286767" C="0.4245" G="0.00196479" T="0.286767"/>
+      <pos A="0.286767" C="0.14281" G="0.283655" T="0.286767"/>
+      <pos A="0.145922" C="0.283655" G="0.4245" T="0.145922"/>
+      <pos A="0.990993" C="0.00196479" G="0.00196479" T="0.00507746"/>
+      <pos A="0.145922" C="0.4245" G="0.00196479" T="0.427612"/>
+      <pos A="0.427612" C="0.14281" G="0.00196479" T="0.427612"/>
+      <pos A="0.00507746" C="0.00196479" G="0.565345" T="0.427612"/>
+      <pos A="0.00507746" C="0.00196479" G="0.00196479" T="0.990993"/>
+      <pos A="0.427612" C="0.00196479" G="0.00196479" T="0.568458"/>
+      <pos A="0.427612" C="0.00196479" G="0.4245" T="0.145922"/>
+      <pos A="0.286767" C="0.4245" G="0.00196479" T="0.286767"/>
+      <pos A="0.286767" C="0.00196479" G="0.565345" T="0.145922"/>
+      <pos A="0.00507746" C="0.00196479" G="0.98788" T="0.00507746"/>
+      <pos A="0.427612" C="0.4245" G="0.14281" T="0.00507746"/>
+      <pos A="0.00507746" C="0.283655" G="0.4245" T="0.286767"/>
+      <pos A="0.00507746" C="0.00196479" G="0.98788" T="0.00507746"/>
+      <pos A="0.286767" C="0.565345" G="0.00196479" T="0.145922"/>
+      <pos A="0.286767" C="0.00196479" G="0.70619" T="0.00507746"/>
+      <pos A="0.145922" C="0.283655" G="0.565345" T="0.00507746"/>
+      <pos A="0.427612" C="0.14281" G="0.00196479" T="0.427612"/>
+      <pos A="0.709303" C="0.00196479" G="0.283655" T="0.00507746"/>
+      <pos A="0.00507746" C="0.283655" G="0.4245" T="0.286767"/>
+      <pos A="0.00507746" C="0.4245" G="0.14281" T="0.427612"/>
+      <pos A="0.00507746" C="0.00196479" G="0.00196479" T="0.990993"/>
+      <pos A="0.427612" C="0.00196479" G="0.4245" T="0.145922"/>
+      <pos A="0.00507746" C="0.98788" G="0.00196479" T="0.00507746"/>
+      <pos A="0.850148" C="0.14281" G="0.00196479" T="0.00507746"/>
+      <pos A="0.00507746" C="0.847035" G="0.00196479" T="0.145922"/>
+      <pos A="0.00507746" C="0.4245" G="0.565345" T="0.00507746"/>
+      <pos A="0.00507746" C="0.14281" G="0.00196479" T="0.850148"/>
+      <pos A="0.286767" C="0.4245" G="0.00196479" T="0.286767"/>
+      <pos A="0.145922" C="0.283655" G="0.4245" T="0.145922"/>
+      <pos A="0.145922" C="0.00196479" G="0.00196479" T="0.850148"/>
+      <pos A="0.00507746" C="0.4245" G="0.00196479" T="0.568458"/>
+    </motif>
+  </queries>
+  <targets>
+  </targets>
+  <matches>
+  </matches>
+  <runtime cycles="15709096" seconds="15.709"/>
+</tomtom>

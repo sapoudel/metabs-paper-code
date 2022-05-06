@@ -1,0 +1,79 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.3.3 (Release date: Sun Feb 7 15:39:52 2021 -0800)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= motifs/Itaconate_response.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op109                    1.0000    600  Op1164                   1.0000    600  
+Op1294                   1.0000    600  Op1347                   1.0000    600  
+Op1383                   1.0000    600  Op1451                   1.0000    600  
+Op1457                   1.0000    600  Op158                    1.0000    600  
+Op1617                   1.0000    600  Op22                     1.0000    600  
+Op240                    1.0000    600  Op288                    1.0000    600  
+Op37                     1.0000    600  Op473                    1.0000    600  
+Op550                    1.0000    600  Op566                    1.0000    600  
+Op573                    1.0000    600  Op710                    1.0000    600  
+Op740                    1.0000    600  Op980                    1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme motifs/Itaconate_response.fasta -oc motifs/Itaconate_response -dna -mod zoops -p 8 -nmotifs 5 -evt 0.001 -minw 6 -maxw 40 -allw -minsites 6 
+
+model:  mod=         zoops    nmotifs=         5    evt=         0.001
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            6    maxw=           40
+nsites: minsites=        6    maxsites=       20    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=           12000    N=              20
+sample: seed=            0    hsfrac=          0
+        searchsize=  12000    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.34 C 0.153 G 0.151 T 0.355 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.34 C 0.153 G 0.152 T 0.355 
+Background model order: 0
+********************************************************************************
+
+********************************************************************************
+Stopped because motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: 1468acf55fcb
+
+********************************************************************************

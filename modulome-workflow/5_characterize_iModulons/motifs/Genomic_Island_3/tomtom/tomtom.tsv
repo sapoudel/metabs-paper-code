@@ -1,0 +1,11 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+AYAGAACAYATGTTCKTAT	EXPREG_00001790	-2	1.32285e-08	7.81806e-06	1.54754e-05	14	ATAGAACATATGTTCGTAT	AGAACATATGTTCG	-
+AYAGAACAYATGTTCKTAT	EXPREG_00000a00	-2	1.15321e-07	6.81544e-05	6.74538e-05	14	ATAGAACATATGTTCGTAT	CGAACATATGTTCT	-
+AYAGAACAYATGTTCKTAT	EXPREG_000013e0	2	2.79243e-07	0.000165033	0.000108891	19	ATAGAACATATGTTCGTAT	AATAAGAACGTATGTTCGTTTT	+
+AYAGAACAYATGTTCKTAT	MX000025	-2	6.59794e-07	0.000389938	0.000128643	14	ATAGAACATATGTTCGTAT	CGAACATATGTTCG	-
+AYAGAACAYATGTTCKTAT	EXPREG_00000020	-1	3.45564e-06	0.00204228	0.00045816	17	ATAGAACATATGTTCGTAT	TCGAACATTTGTTCGAA	-
+AYAGAACAYATGTTCKTAT	EXPREG_00000120	-1	7.80065e-06	0.00461018	0.000912558	16	ATAGAACATATGTTCGTAT	TAGAACATTAGTTCCT	-
+
+# Tomtom (Motif Comparison Tool): Version 5.3.3 compiled on Jun 24 2021 at 01:05:40
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc motifs/Genomic_Island_3/tomtom -thresh 0.001 -incomplete-scores -png motifs/Genomic_Island_3/meme.txt /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/collectf.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/dpinteract.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/prodoric.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/regtransbase.meme /opt/conda/lib/python3.9/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme
